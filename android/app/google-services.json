@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "277438394817",
+    "firebase_url": "https://viajeroschile-6cc17.firebaseio.com",
+    "project_id": "viajeroschile-6cc17",
+    "storage_bucket": "viajeroschile-6cc17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277438394817:android:1736c72b265b7823",
+        "android_client_info": {
+          "package_name": "com.yourcompany.flutterflatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277438394817-14gclj0iaob3t7mefng7ut82urhbkia1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVv8ntHerJFsKZNRxFQEszwJSrrpeSMGg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
